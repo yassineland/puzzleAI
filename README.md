@@ -4,4 +4,5 @@ In addition, you can play it manually and change parameters (example: number of 
 
 # How to use?
 Just execute "8puzzle/main.py" or "11puzzle_image/main.py".
+
 To play it manually, juste incomment the part under the comment "# Play manually!"
